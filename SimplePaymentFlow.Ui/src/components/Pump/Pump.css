@@ -1,0 +1,12 @@
+.pumpIcon {
+    font-size: 2.0rem!important;
+    margin-left:1.0rem;
+    margin-right:1.0rem;
+}
+
+.pumpButton {
+    margin-left:auto;
+    margin-right: 2.0rem;
+    margin-top: 1.0rem;
+    cursor: pointer !important;
+}

@@ -1,0 +1,13 @@
+.payIcon {
+    font-size: 2.0rem!important;
+    margin-left:1.0rem;
+    margin-right:1.0rem;
+}
+
+.payButton {
+    margin-right: 2.0rem;
+    margin-top: 1.0rem;
+    font-size: 2.0rem!important;
+    font-weight:500;
+    cursor: pointer !important;
+}
