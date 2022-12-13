@@ -61,6 +61,17 @@ npm install #(if you haven't already)
 npm test
 ```
 
+## End-User Instructions
+
+### Using the front-end:
+
+- When the page loads you should see a list of sites.
+- Entering a term in the search box will filter the list of sites down as you type.
+- On each site you can unlock or lock a pump using the button with the petrol pump and the padlock. 
+  - The padlock indicates whether the pump is currently locked or unlocked.
+- On each site you can make a payment at the pump if the pump is unlocked. Payments are fixed at £10 due to time constraints.
+  - Clicking make a payment will store the payment server-side and display a receipt in the UI. 
+
 ## Notes and Assumptions
 
 - More than 2 hours was taken to complete the test. 
